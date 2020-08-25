@@ -1,5 +1,5 @@
 # DeepSC-COVID
-The source code of the training implememtation of our paper 'A Joint Deep Learning Model of 3D Lesion Segmentation and Classification for COVID-19 Diagnosis'
+The source code of the training implememtation of our paper 'A Joint Deep Learning Model of 3D Lesion Segmentation and Classification for COVID-19 Diagnosis' is available at https://www.dropbox.com/s/se3zvq0rptd42wn/DeepSC-COVID.rar?dl=0.
 
 Part of the data in the proposed 3DLSC-COVID database has passed the open source approval process. These data are available at https://www.dropbox.com/s/8hmj1saz81tv03j/3DLSC-COVID.zip?dl=0. You can contact xfwang@buaa.edu.cn for requiring the password of the link.
 
